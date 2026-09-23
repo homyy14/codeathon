@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import SearchBar from "./components/SearchBar";
+import SearchBar from "./components/Searchbar";
 import WeatherCard from "./components/weathercard";
 import "./index.css";
 
